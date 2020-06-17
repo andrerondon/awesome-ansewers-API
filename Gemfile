@@ -34,6 +34,7 @@ gem 'delayed_job_active_record', '~> 4.1', '>= 4.1.4'
 gem 'delayed_job_web', '~> 1.4', '>= 1.4.3'
 
 gem 'letter_opener'
+gem 'rack-cors'
 
 # gems listed above here are considered production gems. These should gems that are core to your application
 
